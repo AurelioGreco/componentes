@@ -1,0 +1,13 @@
+https://picsum.photos/
+------------------------------
+
+Easy to use, stylish placeholders
+
+Just add your desired image size (width & height) after our URL, and you'll get a random image.
+
+https://picsum.photos/200/300
+
+To get a square image, just add the size.
+
+https://picsum.photos/200
+
